@@ -1,0 +1,5 @@
+com\emergentes\modelo\Registro.class
+com\emergentes\dao\RegistroDAO.class
+com\emergentes\controlador\RegistroController.class
+com\emergentes\dao\RegistroDAOimpl.class
+com\emergentes\utiles\db_internet.class
